@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="permission_black_60">#99000000</color>
+    <color name="permission_HardGray">#252526</color>
+    <color name="permission_transparent">#00000000</color>
+</resources>

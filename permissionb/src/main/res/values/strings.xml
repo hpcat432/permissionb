@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="permissions_calendar">日历</string>
+    <string name="permissions_camera">相机</string>
+    <string name="permissions_mic">麦克风</string>
+    <string name="permissions_contact">通讯录</string>
+    <string name="permissions_call">拨打电话</string>
+    <string name="permissions_call_log">通话记录</string>
+    <string name="permissions_read_phone_state">设备信息</string>
+    <string name="permissions_sensors">传感器</string>
+    <string name="permissions_sms">短信</string>
+    <string name="permissions_location">定位</string>
+    <string name="permissions_storage">存储</string>
+    <string name="permission_request">权限申请</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="permission_dialog_info_message">该功能需申请%s权限</string>
+    <string name="permission_dialog_never_ask_message">该功能需申请%s权限，请在设置里开启</string>
+    <string name="permission_settings">设置</string>
+
+</resources>
