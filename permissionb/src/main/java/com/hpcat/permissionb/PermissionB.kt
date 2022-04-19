@@ -9,7 +9,7 @@ import com.hpcat.permissionb.request.Request
 import com.hpcat.permissionb.request.RequestCallback
 import com.hpcat.permissionb.request.RequestFactory
 import com.hpcat.permissionb.utils.ILogger
-import com.hpcat.permissionb.utils.shouldShowRequestPermissionRationale
+import com.hpcat.permissionb.utils.shouldShowRationale
 import org.json.JSONObject
 
 class PermissionB(private val activity: FragmentActivity) {
@@ -111,7 +111,7 @@ class PermissionB(private val activity: FragmentActivity) {
                 checkAndReturnResult()
             }
         }
-        doRequestWithSystemAPI(permissionsNeedToRequest, shouldShowRequestPermissionRationale(activity, *permissions))
+        doRequestWithSystemAPI(permissionsNeedToRequest, shouldShowRationale(activity, *permissions))
     }
 
     private fun doRequestWithSystemAPI(permissionsNeedToRequest: List<String>,

@@ -45,15 +45,16 @@ class TopHintWrapRequest(
         if (TextUtils.isEmpty(titleText) || TextUtils.isEmpty(descText)) {
             return null
         }
+        val contentView = activity.findViewById<View>(android.R.id.content)
         val dialogContent = LayoutInflater.from(activity)
-            .inflate(R.layout.main_top_permission_layout, null, false)
+            .inflate(R.layout.main_top_permission_layout, contentView as ViewGroup, false)
         dialogContent.findViewById<ViewGroup>(R.id.permission_content_layout).apply {
             (layoutParams as? ViewGroup.MarginLayoutParams)?.topMargin =
                 (getStatusBarHeight(activity) + dipToPx(activity, 16F)).toInt()
         }
         dialogContent.findViewById<TextView>(R.id.permission_request_title).text = titleText
         dialogContent.findViewById<TextView>(R.id.permission_request_desc).text = descText
-        return ViewDialog(activity.findViewById<View>(android.R.id.content).rootView as ViewGroup,
+        return ViewDialog(contentView.rootView as ViewGroup,
             activity, dialogContent, Gravity.TOP)
             .apply {
                 setOutsideColor(ContextCompat.getColor(activity, R.color.permission_transparent))

@@ -49,7 +49,7 @@ class RationalDialogWrapRequest(
                         listOf(Deny(originRequest.permission, false))
                     )
                 }
-            }
+            }.show()
     }
 
     private fun getMessage(): String {
