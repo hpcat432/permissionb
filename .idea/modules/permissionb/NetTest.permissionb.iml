@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":permissionb" external.linked.project.path="$MODULE_DIR$/../../../permissionb" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="NetTest" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":permissionb" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.1.0" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.1.0" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../permissionb/src/main/res;file://$MODULE_DIR$/../../../permissionb/src/debug/res;file://$MODULE_DIR$/../../../permissionb/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../permissionb/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../permissionb/src/androidTest/res;file://$MODULE_DIR$/../../../permissionb/src/androidTestDebug/res;file://$MODULE_DIR$/../../../permissionb/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../permissionb/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../permissionb/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../permissionb/build/intermediates/compile_r_class_jar/debug/R.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/b7a815de122a7d649dfd02b9ed27892d/core-ktx-1.7.0-api.jar:/Users/zhangyucheng/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.5.31/6628d61d0f5603568e72d2d5915d2c034b4f1c55/kotlin-stdlib-1.5.31.jar:/Users/zhangyucheng/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/Users/zhangyucheng/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.31/43331609c7de811fed085e0dfd150874b157c32/kotlin-stdlib-common-1.5.31.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/d43fbf47d3e922b4890ee52b5d5c32c6/material-1.5.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/21a01f5482bf96d6a41c78d02f5171e0/constraintlayout-2.0.1-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/e78b930a706654aa60b3e33106bb5dba/appcompat-1.4.1-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/619778000c6c00b3b364cd7614c7a47b/viewpager2-1.0.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/a8a9ee27fc1fd24e8125851412f6a52e/fragment-1.3.6-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/4db5431bb48f3582846ed34978f826a6/activity-1.2.4-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/8a4fb269260c7b1ec75735a531acac3b/appcompat-resources-1.4.1-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/c0ed07366610f2af52b0ef75ff95737e/drawerlayout-1.1.1-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/14ed1ada386dfef2736ce077afaddfb3/coordinatorlayout-1.1.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/a207707bdb6cb4ca6501ddc0fa041179/dynamicanimation-1.0.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/783c8f17dfab3839f29ed88b3554a079/recyclerview-1.1.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/253f73aae1e854a23274396854d5f617/transition-1.2.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/967ae7861fe0bf3323d6617c0c769571/vectordrawable-animated-1.1.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/048c4b8d7fc9daabac0e6a6cbf5ca2a9/vectordrawable-1.1.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/0014129e5bd862fc718460d2499a5538/viewpager-1.0.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/9a3b142c7a3d10c345da9f11e1af9c8e/legacy-support-core-utils-1.0.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/d4d9e29a7ec7672b7199f8fec1875706/loader-1.0.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/9c7dea19ec4698ae56273fdfc9cf9fb4/customview-1.1.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/3cab1443c3da6a5c3808f0c2f153731a/core-1.7.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/c643b24c90cd68d8b36925e07f6637fc/cursoradapter-1.0.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/84f38e8f79703467b240cd93bd7bb4b0/lifecycle-viewmodel-savedstate-2.3.1-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/6578d1965fddad68cf2d1123e95560d6/savedstate-1.1.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/5e30dc8e842ad28dc8eb33e441d153d0/cardview-1.0.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/d04dcdefd0652d19b40f5b37c314cfe5/lifecycle-runtime-2.4.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/233b515b40883b192b3d639a5c224386/versionedparcelable-1.1.1-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/8afcdb25754b18d311d9b88b0d6600ef/lifecycle-viewmodel-2.3.1-api.jar:/Users/zhangyucheng/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/7ed9a0b9089797859d21c5c18c99f45c/lifecycle-livedata-2.0.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/d2465c4b6e9bddb685045b32a3fe395b/lifecycle-livedata-core-2.3.1-api.jar:/Users/zhangyucheng/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.4.0/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.4.0.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/9326be5d492cfa44373d271e11aea8b1/core-runtime-2.1.0-api.jar:/Users/zhangyucheng/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/cf0f411abe9b27e78f98e067deb4afb9/interpolator-1.0.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/7488dd01299f0f5b54ea47cf59b9119f/documentfile-1.0.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/46b497b5e8042852bc48d4072e6a7854/localbroadcastmanager-1.0.0-api.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/bcd862bf246d016d0cb551b1f63a943b/print-1.0.0-api.jar:/Users/zhangyucheng/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar:/Users/zhangyucheng/.gradle/caches/transforms-2/files-2.1/265b2dbca961ec110995d5138ffdcfd9/annotation-experimental-1.1.0-api.jar:/Users/zhangyucheng/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-solver/2.0.1/30988fe2d77f3fe3bf7551bb8a8b795fad7e7226/constraintlayout-solver-2.0.1.jar:/Users/zhangyucheng/Library/Android/sdk/platforms/android-31/android.jar:/Users/zhangyucheng/Library/Android/sdk/build-tools/29.0.2/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="permissionb_debug" />
+          <option name="languageVersion" value="1.4" />
+          <option name="apiVersion" value="1.4" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../permissionb/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../permissionb/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../permissionb">
+      <excludeFolder url="file://$MODULE_DIR$/../../../permissionb/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../permissionb/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

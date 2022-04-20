@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetTest.iml" filepath="$PROJECT_DIR$/.idea/modules/NetTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NetTest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NetTest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NetTest.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NetTest.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NetTest.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NetTest.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NetTest.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NetTest.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/permissionb/NetTest.permissionb.iml" filepath="$PROJECT_DIR$/.idea/modules/permissionb/NetTest.permissionb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/permissionb/NetTest.permissionb.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/permissionb/NetTest.permissionb.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/permissionb/NetTest.permissionb.main.iml" filepath="$PROJECT_DIR$/.idea/modules/permissionb/NetTest.permissionb.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/permissionb/NetTest.permissionb.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/permissionb/NetTest.permissionb.unitTest.iml" />
+    </modules>
+  </component>
+</project>
